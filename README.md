@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Wardley Maps
 - 💞️ I’m looking to collaborate on Supply Planning open source.
 - 📫 How to reach me GitHub
-- 😄 Pronouns: Dude
+- 😄 Pronouns: Old Dude.
 - ⚡ Fun fact: ...
 
 <!---
