@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sgromme
-- 👀 I’m interested in ...
+- 👀 I’m interested in Python, ML , Data Science etc.
 - 🌱 I’m currently learning Wardley Maps
 - 💞️ I’m looking to collaborate on Supply Planning open source.
 - 📫 How to reach me GitHub
